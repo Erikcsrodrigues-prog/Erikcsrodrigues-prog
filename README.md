@@ -1,6 +1,6 @@
 # Olá,Me chamo Erik 👋
  
-# sobre Mim
+# Sobre Mim
 
 Sou Desenvolvedor Front-End em formação, com interesse em desenvolvimento web e interfaces modernas,
 atualmente estou cursando redes e computadores, e iniciei pela Dio o bootcamps Santander 2025 - Front-End,
