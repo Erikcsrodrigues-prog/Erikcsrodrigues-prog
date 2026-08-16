@@ -1,4 +1,41 @@
-## Hi there 👋
+# Olá,Me chamo Erik 👋
+ 
+# sobre Mim
+
+Sou Desenvolvedor Front-End em formação, com interesse em desenvolvimento web e interfaces modernas,
+atualmente estou cursando redes e computadores, e iniciei pela Dio o bootcamps Santander 2025 - Front-End,
+Alem de cursos gratuitos como o jornada do dev.
+
+Meu objetivo é evoluir constantemente minhas habilidades, transformar ideias em projetos e construir experiências digitais melhores.
+
+## 🛠️ Tecnologias
+
+- HTML 
+- CSS
+- Python
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erikcsrodrigues-prog&show_icons=true&theme=dark&hide_border=true"/>
+
+## 🌐 Contato
+
+[LinkedIn](https://www.linkedin.com/in/erik-cavalcante-97373139a/)
+
+<div align="center">
+
+```
+╭──────────────────────────────────────────╮
+│                                          │
+│       THANK YOU FOR ACCESSING MY         │
+│             DIGITAL SPACE                │
+│                                          │
+│       LEARN • BUILD • EVOLVE             │
+│                                          │
+╰──────────────────────────────────────────╯
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5A00,50:8B0000,100:0D0D0D&height=120&section=footer"/></div>
 
 <!--
 **Erikcsrodrigues-prog/Erikcsrodrigues-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
