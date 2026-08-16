@@ -24,7 +24,6 @@ Meu objetivo é evoluir constantemente minhas habilidades, transformar ideias em
 [LinkedIn](https://www.linkedin.com/in/erik-cavalcante-97373139a/)
 
 <div align="center">
-
 ```
 ╭──────────────────────────────────────────╮
 │                                          │
@@ -36,6 +35,7 @@ Meu objetivo é evoluir constantemente minhas habilidades, transformar ideias em
 ╰──────────────────────────────────────────╯
 ```
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5A00,50:8B0000,100:0D0D0D&height=120&section=footer"/></div>
 
 <!--
