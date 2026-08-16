@@ -28,10 +28,10 @@ Meu objetivo é evoluir constantemente minhas habilidades, transformar ideias em
 ```
 ╭──────────────────────────────────────────╮
 │                                          │
-│       THANK YOU FOR ACCESSING MY         │
-│             DIGITAL SPACE                │
+│     Obrigado por acessar meu espaço      │
+│                Digital                   │
 │                                          │
-│       LEARN • BUILD • EVOLVE             │
+│     Aprender • Contruir • Evoluir        │
 │                                          │
 ╰──────────────────────────────────────────╯
 ```
