@@ -1,6 +1,5 @@
 # Olá,Me chamo Erik 👋
  <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7A0000,100:FF5A00&height=180&section=header&text=ERIK%20CAVALCANTE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FRONT-END%20DEVELOPER%20IN%20FORMATION&descAlignY=58&descSize=16" width="100%"<br></br> </div>
- 
 # Sobre Mim
 
 Sou Desenvolvedor Front-End em formação, com interesse em desenvolvimento web e interfaces modernas,
